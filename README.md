@@ -53,6 +53,26 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
   
   ---
 
+## Certifications 📜
+
+- **Microsoft Certified: Power BI Data Analyst Associate**  
+  _Issued by Microsoft | Credential ID: 1234-5678_
+
+- **SQL for Data Science**  
+  _Coursera – University of California, Davis_
+
+- **Google Data Analytics Professional Certificate**  
+  _Google Career Certificates | Coursera_
+
+- **Introduction to Data Analytics**  
+  _IBM | Coursera_
+
+- **Excel Skills for Business**  
+  _Macquarie University | Coursera_
+
+---
+
+
 ## Resume & Contact Info 📬
 
 - **📄 [View My Resume](https://your-resume-link.com)**  
