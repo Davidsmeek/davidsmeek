@@ -1,6 +1,6 @@
 # Hi 👋 I’m David Solomon
 
-**Data Analyst |Executive Assistant | Empowering businesses with Actionable insights from data |**
+**Data Analyst |Executive Assistant | Empowering businesses with Actionable insights from data**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com)  [![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:youremail@example.com)  [![X](https://img.shields.io/badge/X-Follow-000000?logo=x&logoColor=white)](https://x.com/yourusername)  [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://instagram.com/yourusername)  [![Threads](https://img.shields.io/badge/Threads-Follow-000000?logo=threads&logoColor=white)](https://threads.net/@yourusername)
 
@@ -8,7 +8,8 @@
 
 ## Mission 🎯
 
-Empower individuals and organizations through data-driven solutions, lifelong learning, and purposeful action. I strive to create a meaningful impact by building systems that uplift communities and inspire future leaders. Through resilience, kindness, and innovation, I aim to live a fulfilled life and leave a legacy of growth, opportunity, and excellence.
+Empower individuals and organizations through data-driven insights, continuous learning, and purposeful decision-making. I strive to create meaningful impact by transforming data into actionable strategies that drive growth, solve real-world problems, and inspire innovation. With a foundation rooted in curiosity, resilience, and empathy, my goal is to leave a legacy of excellence, opportunity, and positive change through the power of analytics.
+
 
 ---
 
