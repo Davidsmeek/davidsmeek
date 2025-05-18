@@ -2,7 +2,7 @@
 
 **Data Analyst |Executive Assistant | Empowering businesses with Actionable insights from data**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com)  [![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:youremail@example.com)  [![X](https://img.shields.io/badge/X-Follow-000000?logo=x&logoColor=white)](https://x.com/yourusername)  [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://instagram.com/yourusername)  [![Threads](https://img.shields.io/badge/Threads-Follow-000000?logo=threads&logoColor=white)](https://threads.net/@yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/david-solomon-ahmed/)  [![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:davidsolomon406@gmail.com)  [![X](https://img.shields.io/badge/X-Follow-000000?logo=x&logoColor=white)](https://x.com/ds_analystpro?s=21)  [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/ds_analystpro)  [![Threads](https://img.shields.io/badge/Threads-Follow-000000?logo=threads&logoColor=white)](https://threads.net/@ds_analystpro)
 
 ---
 
@@ -29,7 +29,7 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
 
 - Power BI  
 - Excel (Pivot Tables, Power Query, Charts, Power Pivot)  
-- SQL (PostgreSQL, Microsoft SQL Server, SQLite, MySQL)  
+- SQL (MySQL)  
 - SPSS
 
 ---
@@ -74,9 +74,7 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
 ---
 
 
-## Resume & Contact Info 📬
+## Resume 📄
 
 - **📄 [View My Resume](https://your-resume-link.com)**  
-- **📧 Email:** [youremail@example.com](mailto:youremail@example.com)  
-- **🌐 Website:** [www.esanalysis.com](https://yourwebsite.com)  
-- **📱 LinkedIn:** [Connect with me](https://linkedin.com/in/yourprofile) 
+- 
