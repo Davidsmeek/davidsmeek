@@ -36,8 +36,8 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
 
 ## Projects 📊
 
-- **[Education Performance Dashboard](https://github.com/yourusername/education-performance-dashboard)**  
-  Designed an interactive Power BI dashboard to analyze student performance trends across multiple STEM programs.  
+- **[HR Analytics Dashboard & Attrition Analysis](https://github.com/Davidsmeek/Data--Analysis?tab=readme-ov-file#hr-analytics-dashboard--attrition-analysis)**  
+ This project aims to develop a dynamic HR Analytics Dashboard to support data-driven HR decisions. The analysis focuses on employee demographics, departmental structures, income trends, and especially attrition patterns to guide actionable strategies for improving employee retention and organizational planning. 
   _Tools: Power BI, Excel_
 
 - **[Community STEM Impact Study](https://github.com/yourusername/community-stem-impact-study)**  
