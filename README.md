@@ -40,7 +40,7 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
  This project aims to develop a dynamic HR Analytics Dashboard to support data-driven HR decisions. The analysis focuses on employee demographics, departmental structures, income trends, and especially attrition patterns to guide actionable strategies for improving employee retention and organizational planning. 
   _Tools: Power BI, Excel_
 
- - **[The Role of AI Chatbots in Influencing the Online Customer Experience and Satisfaction](https://github.com/yourusername/survey-data-pipeline)**  
+ - **[The Role of AI Chatbots in Influencing the Online Customer Experience and Satisfaction](https://github.com/Davidsmeek/Data-Analysis/tree/main/AI%20Chatbot%20Usability)**  
  This project investigates how AI chatbots influence customer satisfaction during online shopping experiences. It focuses on three primary chatbot attributes usability, responsiveness, and reliability and evaluates their relationships with customer satisfaction. The research data was obtained from students in Lagos, Nigeria, and analyzed using descriptive statistics, correlation, and regression analysis.  
   _Tools: Microsoft,Excel, SPSS, MSword_
 
