@@ -27,8 +27,8 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
 
 ### **Data Analytics & Visualization:**
 
+- Excel (Pivot Tables, Power Query, Charts, Power Pivot)
 - Power BI  
-- Excel (Pivot Tables, Power Query, Charts, Power Pivot)  
 - SQL (MySQL)  
 - SPSS
 
@@ -56,20 +56,18 @@ This project examines the influence of different leadership styles on organisati
 
 ## Certifications 📜
 
-- **Microsoft Certified: Power BI Data Analyst Associate**  
-  _Issued by Microsoft | Credential ID: 1234-5678_
+- **Data Visualization Virtual Intership**  
+  _Issued by Excelerate_ 
 
-- **SQL for Data Science**  
-  _Coursera – University of California, Davis_
+- **Data Analysis**  
+  _Issued by Digital World Tech Academy_
 
-- **Google Data Analytics Professional Certificate**  
-  _Google Career Certificates | Coursera_
+- **Virtual Assistant**  
+  _Alx Africa_
 
-- **Introduction to Data Analytics**  
-  _IBM | Coursera_
+- **Introduction to Data Science**  
+  _Cisco Networking Academy_
 
-- **Excel Skills for Business**  
-  _Macquarie University | Coursera_
 
 ---
 
