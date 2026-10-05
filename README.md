@@ -48,9 +48,6 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
 This project examines the influence of different leadership styles on organisational performance, with a specific focus on Nestlé Nigeria PLC. It evaluates the impact of transactional, autocratic, and transformational leadership on employee productivity, customer satisfaction, and engagement using quantitative methods such as descriptive statistics, correlation, and regression analysis.
   _Tools: Excel, SPSS, Microsoft Word_
 
-- **[SQL Insights for School Administration](https://github.com/yourusername/sql-insights-school-admin)**  
-  Delivered actionable insights from large student databases using complex SQL queries.  
-  _Tools: PostgreSQL, MySQL_
   
   ---
 
