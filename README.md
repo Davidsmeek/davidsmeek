@@ -36,16 +36,37 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
 
 ## Projects 📊
 
+- **[CafeNova Sales Performance Analysis](https://github.com/Davidsmeek/Data-Analysis/tree/main/CafeNova%20Sales%20Analysis)**  
+ CafeNova is a casual dining chain whose management knew sales were growing but not which items, categories and customer segments drive value, or where money is being lost. This project cleans two years of raw order data, builds calculated business metrics and pivot-table analysis, and presents the results in a one-page Excel dashboard with KPI cards and slicers, plus a short PowerPoint of insights and recommendations.
+The project was completed as the final project of the Learn with George data analytics course, working as a "Junior Data Analyst" on the brief provided 
+
+  _Tools: Excel, Microsoft PowerPoint_
+
+- **[Retail Hub Capstone Project](https://github.com/Davidsmeek/Data-Analysis/tree/main/Retail%20Hub%20SQL%20Capstone)**  
+ This is the capstone project for the Learn with George SQL course. Using a retail database called RetailHub, I wrote 10 SQL queries to answer sales questions, practising the concepts taught in the course: aggregates, GROUP BY, joins, subqueries, CASE statements, Common Table Expressions (CTEs) and window functions.
+The project covers the full workflow: creating the database and tables, backing up the data, adding calculated columns, and then querying the data to answer business questions.
+
+   _Tools: SQL_
+
+- **[Superhero U Campaign Analysis](https://github.com/Davidsmeek/Data-Analysis/tree/main/Superhero%20U%20Campaign%20Analysis)**  
+ Superhero U is a competition run by GlobalShala to inspire innovation and inventiveness among young people, guided by the UN mission to "promote prosperity while protecting the planet". The competition was promoted with 11 Facebook ad campaigns (basic image "Link Click" ads) aimed at two audiences: students in different countries and educators and principals.
+This group project (team of 9) analyses how each campaign performed on cost and engagement, to decide which campaigns to discontinue, which to keep and where the budget works hardest. My role on the team was Analysis and Planning.
+
+  _Tools: spreadsheet, Microsoft powerpoint_
+
 - **[HR Analytics Dashboard & Attrition Analysis](https://github.com/Davidsmeek/Data-Analysis/blob/main/HR%20Analysis/README.md#hr-analytics-dashboard--attrition-analysis)**  
  This project aims to develop a dynamic HR Analytics Dashboard to support data-driven HR decisions. The analysis focuses on employee demographics, departmental structures, income trends, and especially attrition patterns to guide actionable strategies for improving employee retention and organizational planning. 
+
   _Tools: Power BI, Excel_
 
  - **[The Role of AI Chatbots in Influencing the Online Customer Experience and Satisfaction](https://github.com/Davidsmeek/Data-Analysis/tree/main/AI%20Chatbot%20Usability)**  
  This project investigates how AI chatbots influence customer satisfaction during online shopping experiences. It focuses on three primary chatbot attributes usability, responsiveness, and reliability and evaluates their relationships with customer satisfaction. The research data was obtained from students in Lagos, Nigeria, and analyzed using descriptive statistics, correlation, and regression analysis.  
-  _Tools: Microsoft,Excel, SPSS, MSword_
+
+_Tools: Microsoft, Excel, SPSS, MSword_
 
 - **[Relationship Between Leadership Style](https://github.com/Davidsmeek/Data-Analysis/blob/main/RELATIONSHIP%20BETWEEN%20LEADERSHIP%20STYLE/read.md#the-relationship-between-leadership-styles-and-organisational-performance-a-case-study-of-nestl%C3%A9-nigeria-plc)**  
 This project examines the influence of different leadership styles on organisational performance, with a specific focus on Nestlé Nigeria PLC. It evaluates the impact of transactional, autocratic, and transformational leadership on employee productivity, customer satisfaction, and engagement using quantitative methods such as descriptive statistics, correlation, and regression analysis.
+
   _Tools: Excel, SPSS, Microsoft Word_
 
   
