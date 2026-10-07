@@ -46,7 +46,7 @@ The project was completed as the final project of the Learn with George data ana
  This is the capstone project for the Learn with George SQL course. Using a retail database called RetailHub, I wrote 10 SQL queries to answer sales questions, practising the concepts taught in the course: aggregates, GROUP BY, joins, subqueries, CASE statements, Common Table Expressions (CTEs) and window functions.
 The project covers the full workflow: creating the database and tables, backing up the data, adding calculated columns, and then querying the data to answer business questions.
 
-   _Tools: SQL_
+   _Tools: MySQL_
 
 - **[Superhero U Campaign Analysis](https://github.com/Davidsmeek/Data-Analysis/tree/main/Superhero%20U%20Campaign%20Analysis)**  
  Superhero U is a competition run by GlobalShala to inspire innovation and inventiveness among young people, guided by the UN mission to "promote prosperity while protecting the planet". The competition was promoted with 11 Facebook ad campaigns (basic image "Link Click" ads) aimed at two audiences: students in different countries and educators and principals.
