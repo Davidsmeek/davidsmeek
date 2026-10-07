@@ -52,7 +52,7 @@ The project covers the full workflow: creating the database and tables, backing 
  Superhero U is a competition run by GlobalShala to inspire innovation and inventiveness among young people, guided by the UN mission to "promote prosperity while protecting the planet". The competition was promoted with 11 Facebook ad campaigns (basic image "Link Click" ads) aimed at two audiences: students in different countries and educators and principals.
 This group project (team of 9) analyses how each campaign performed on cost and engagement, to decide which campaigns to discontinue, which to keep and where the budget works hardest. My role on the team was Analysis and Planning.
 
-  _Tools: spreadsheet, Microsoft powerpoint_
+  _Tools: Spreadsheet, Microsoft powerpoint_
 
 - **[HR Analytics Dashboard & Attrition Analysis](https://github.com/Davidsmeek/Data-Analysis/blob/main/HR%20Analysis/README.md#hr-analytics-dashboard--attrition-analysis)**  
  This project aims to develop a dynamic HR Analytics Dashboard to support data-driven HR decisions. The analysis focuses on employee demographics, departmental structures, income trends, and especially attrition patterns to guide actionable strategies for improving employee retention and organizational planning. 
@@ -62,7 +62,7 @@ This group project (team of 9) analyses how each campaign performed on cost and 
  - **[The Role of AI Chatbots in Influencing the Online Customer Experience and Satisfaction](https://github.com/Davidsmeek/Data-Analysis/tree/main/AI%20Chatbot%20Usability)**  
  This project investigates how AI chatbots influence customer satisfaction during online shopping experiences. It focuses on three primary chatbot attributes usability, responsiveness, and reliability and evaluates their relationships with customer satisfaction. The research data was obtained from students in Lagos, Nigeria, and analyzed using descriptive statistics, correlation, and regression analysis.  
 
-_Tools: Microsoft, Excel, SPSS, MSword_
+ _Tools: Microsoft, Excel, SPSS, MSword_
 
 - **[Relationship Between Leadership Style](https://github.com/Davidsmeek/Data-Analysis/blob/main/RELATIONSHIP%20BETWEEN%20LEADERSHIP%20STYLE/read.md#the-relationship-between-leadership-styles-and-organisational-performance-a-case-study-of-nestl%C3%A9-nigeria-plc)**  
 This project examines the influence of different leadership styles on organisational performance, with a specific focus on Nestlé Nigeria PLC. It evaluates the impact of transactional, autocratic, and transformational leadership on employee productivity, customer satisfaction, and engagement using quantitative methods such as descriptive statistics, correlation, and regression analysis.
